@@ -1,0 +1,7 @@
+{
+  "name": "pure-forms/validation",
+  "typings": "../validation.d.ts",
+  "main": "../bundles/pure-forms-validation.umd.js",
+  "module": "../modules/pure-forms-validation.es5.js",
+  "es2015": "../modules/pure-forms-validation.js"
+}
