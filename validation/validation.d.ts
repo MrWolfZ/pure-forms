@@ -1,1 +1,1 @@
-export * from './validation/pure-forms-validation';
+export * from './validation/index';
