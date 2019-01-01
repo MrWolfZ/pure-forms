@@ -1,6 +1,6 @@
 {
   "name": "pure-forms",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pure functional form state management",
   "module": "modules/pure-forms.es5.js",
   "es2015": "modules/pure-forms.js",
